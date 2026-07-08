@@ -316,8 +316,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/auralink](https://github.com/yourusername/auralink)
-- **Email**: your.email@example.com
+- **Project Link**: [https://github.com/sharma11/auralink](https://github.com/sharma11/auralink)
+- **Email**: ishaansharma30012000@gmail.com
 
 ---
 
